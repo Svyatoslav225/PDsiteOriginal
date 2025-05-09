@@ -22,6 +22,9 @@ body{
 }
 .imagebox a {
   text-align:center;
+  color:white;
+  border:2px point white;
+  background-color:rgb(32,32,32);
 }
 h2{
   text-align:center;
