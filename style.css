@@ -7,7 +7,7 @@ header{
 body{
   background-color:rgb(32,32,32);
 }
-.hedH1{
+.hedH1 h1{
   font-family:sans-serif;
   color:white;
 }
