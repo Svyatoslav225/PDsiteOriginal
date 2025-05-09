@@ -11,20 +11,18 @@ body{
   font-family:sans-serif;
   color:white;
 }
-.hedH1 a{
+a{
   font-family:sans-serif;
   color:white;
   text-align:center;
   border:2px, solid , white;
+  background-color:rgb(32,32,32);
 }
 .imagebox{
   background-image:https://avatars.mds.yandex.net/get-ott/223007/2a0000019426272aa8e3015b7a45b191ca8b/375x375;
 }
-.imagebox a {
-  text-align:center;
-  color:white;
-  border:2px point white;
-  background-color:rgb(32,32,32);
+iframe{
+  border:2px solid red;
 }
 h2{
   text-align:center;
