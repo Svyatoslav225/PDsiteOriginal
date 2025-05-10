@@ -1,9 +1,6 @@
 .hedH1{
-  width:100%;
-  max-width: 1470px;
-  margin: 0 auto;
+  margin: -7;
   background: linear-gradient(purple,rgb(32,32,32));
-  
 }
 body{
   background-color:rgb(32,32,32);
