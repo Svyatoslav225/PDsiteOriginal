@@ -39,3 +39,8 @@ header{
   border-right:4px dotted purple;
   margin: -7px;
 }
+footer{
+  border:2px solid white;
+  border-radius:10px;
+  color:white;
+}
