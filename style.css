@@ -10,6 +10,7 @@ body{
 }
 .hedH1 h1{
   font-family:fantasy;
+  word-spacing:3px;
   color:white;
 }
 p{
