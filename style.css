@@ -22,6 +22,9 @@ a{
   text-align:center;
   border:2px, solid , white;
   background-color:rgb(32,32,32);
+  border-radius:15px;
+  padding:5px;
+  text-decoration:none;
 }
 .imagebox{
   background-color:rgb(42,42,42);
