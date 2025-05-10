@@ -34,7 +34,7 @@ h2{
 }
 header{
   border-top:4px dashed rgb(108,70,117);
-  margin: -7px;
+  margin: -8px;
 }
 header h1{
   podding-left:15px;
@@ -44,4 +44,7 @@ footer{
   border-radius:10px;
   color:white;
   margin-top:35px;
+}
+.imagebox a {
+  padding:10px;
 }
