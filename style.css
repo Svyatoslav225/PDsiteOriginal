@@ -24,7 +24,6 @@ a{
 }
 .imagebox{
   background-color:rgb(42,42,42);
-  border:2px dashed purple;
 }
 iframe{
   border:5px ridge red;
@@ -35,8 +34,6 @@ h2{
 }
 header{
   border-top:4px dashed rgb(108,70,117);
-  border-left:4px dotted purple;
-  border-right:4px dotted purple;
   margin: -7px;
 }
 header h1{
