@@ -1,5 +1,4 @@
 .hedH1{
-  margin: -7;
   background: linear-gradient(purple,rgb(32,32,32));
 }
 body{
@@ -38,4 +37,5 @@ header{
   border-top:4px dashed rgb(108,70,117);
   border-left:4px dotted purple;
   border-right:4px dotted purple;
+  margin: -7px;
 }
